@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 5vh;
+}
+
+.links {
+    display: flex;
+}
+
+a {
+    margin-top: auto;
+    margin-bottom: auto;
+    text-decoration: none;
+    color: black;
+    padding: 4px 8px 0 8px;
+}
+
+a:visited {
+    color: black;
+}
+
+img {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+body {
+    margin: 0 8px 0 8px;
+}
